@@ -105,6 +105,7 @@ ul {
 .Header .paypal-form {
   width: 50px;
   height: auto;
+  visibility: hidden;
 }
 
 .Header .paypal-form input:focus {
